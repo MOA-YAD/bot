@@ -1,6 +1,6 @@
 {
-    "name": "Winx Music Bot",
-    "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "name": "Bot",
+    "description": "Telegram @moa_yad",
     "logo": "https://telegra.ph/file/97840a937d1594f50a31e.jpg",
     "keywords": [
     "python3",
