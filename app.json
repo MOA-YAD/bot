@@ -3,13 +3,7 @@
     "description": "Telegram @moa_yad",
     "logo": "https://telegra.ph/file/97840a937d1594f50a31e.jpg",
     "keywords": [
-    "python3",
-    "telegram",
-    "bot",
-    "Winx",
-    "WinxMusicBot",
-    "telegram-bot",
-    "pyrogram"
+    "11.php",
     ],
     "stack": "container",
     "env": {
